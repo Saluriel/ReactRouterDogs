@@ -1,0 +1,11 @@
+nav {
+    background-color: lightblue;
+    text-align: center;
+    color: white;
+    height: 2rem;
+}
+
+nav a {
+    color: black;
+    padding: 2rem;
+}
